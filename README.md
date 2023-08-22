@@ -10,7 +10,7 @@ O foco desse projeto foi organizar e popular um banco de dados a partir de tabel
 A partir do [arquivo de dados não normalizados](SpotifyClone-Non-NormalizedTable.xlsx), foram estruturadas sete tabelas no banco de dados.
 
 O diagrama abaixo ilustra a estrutura dos dados normalizados.
-![](diagrama.png)
+![](diagram.png)
 
 
 ## Funcionalidades
